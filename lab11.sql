@@ -63,7 +63,6 @@ select dbo.diemtb ('A001')
 
 --Bài 2
 --Cách 1
---Cách 1
 create function trbinhlop(@malop char(5))
 returns table
 as
